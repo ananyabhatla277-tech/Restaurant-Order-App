@@ -1,0 +1,80 @@
+[
+  {
+    "table_number": 1,
+    "timestamp": "2025-08-07T12:50:00.000Z",
+    "menu_items": [
+      {
+        "name": "Pizza",
+        "price": 10.99
+      },
+      {
+        "name": "Coke",
+        "price": 1.99
+      }
+    ]
+  },
+  {
+    "table_number": 2,
+    "timestamp": "2025-08-07T12:05:10.000Z",
+    "menu_items": [
+      {
+        "name": "Burger",
+        "price": 8.99
+      },
+      {
+        "name": "Fries",
+        "price": 3.49
+      },
+      {
+        "name": "Sprite",
+        "price": 1.99
+      }
+    ]
+  },
+  {
+    "table_number": 3,
+    "timestamp": "2025-08-07T12:10:20.000Z",
+    "menu_items": [
+      {
+        "name": "Salad",
+        "price": 7.99
+      },
+      {
+        "name": "Water",
+        "price": 0.99
+      }
+    ]
+  },
+  {
+    "table_number": 4,
+    "timestamp": "2025-08-07T12:15:30.000Z",
+    "menu_items": [
+      {
+        "name": "Pasta",
+        "price": 12.50
+      },
+      {
+        "name": "Red Wine",
+        "price": 7.00
+      }
+    ]
+  },
+  {
+    "table_number": 5,
+    "timestamp": "2025-08-07T12:20:40.000Z",
+    "menu_items": [
+      {
+        "name": "Steak",
+        "price": 25.00
+      },
+      {
+        "name": "Mashed Potatoes",
+        "price": 4.50
+      },
+      {
+        "name": "Beer",
+        "price": 5.50
+      }
+    ]
+  }
+]

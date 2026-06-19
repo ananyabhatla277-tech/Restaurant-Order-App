@@ -1,0 +1,66 @@
+[
+  {
+    "username": "admin",
+    "password": "password",
+    "isAdmin": true,
+    "OrgName": "Main Terminal",
+    "theme": "dark",
+    "role": "admin",
+    "menuItems": [
+      {
+        "name": "Coffee",
+        "photoUrls": [
+          "https://picsum.photos/id/201/200/300",
+          "https://picsum.photos/id/202/200/300"
+        ],
+        "description": "A hot cup of coffee.",
+        "price": 2.99
+      },
+      {
+        "name": "Muffin",
+        "photoUrls": [
+          "https://picsum.photos/id/203/200/300",
+          "https://picsum.photos/id/204/200/300"
+        ],
+        "description": "A delicious muffin.",
+        "price": 1.99
+      },
+      {
+        "name": "Sandwich",
+        "photoUrls": [
+          "https://picsum.photos/id/206/200/300",
+          "https://picsum.photos/id/207/200/300"
+        ],
+        "description": "A tasty sandwich.",
+        "price": 5.49
+      }
+    ]
+  },
+  {
+    "username": "user",
+    "password": "password",
+    "isAdmin": false,
+    "OrgName": "Main Terminal",
+    "theme": "light",
+    "role": "server",
+    "numServed": 1
+  },
+  {
+    "username": "server1",
+    "password": "password",
+    "isAdmin": false,
+    "OrgName": "Main Terminal",
+    "theme": "light",
+    "role": "server",
+    "numServed": 2
+  },
+  {
+    "username": "cook1",
+    "password": "password",
+    "isAdmin": false,
+    "OrgName": "Main Terminal",
+    "theme": "light",
+    "role": "cook",
+    "numCooked": 3
+  }
+]
